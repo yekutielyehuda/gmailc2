@@ -1,10 +1,12 @@
 # gmailc2
-     A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions
+     A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections 
+     and Network Traffic Restrictions
 ![gma](https://user-images.githubusercontent.com/82051128/210650476-b153229d-b70e-4d24-ad8a-ed08b6a3144b.png)
 
 
 # Note:
-     This RAT communicates Via Gmail SMTP (or u can use any other smtps as well) but Gmail SMTP is valid because most of the companies block unknown traffic so       gmail traffic is valid and allowed everywhere.
+     This RAT communicates Via Gmail SMTP (or u can use any other smtps as well) but Gmail SMTP is valid
+     because most of the companies block unknown traffic so gmail traffic is valid and allowed everywhere.
   
 # Warning:
      1. Don't Upload Any Payloads To VirusTotal.com Bcz This tool will not work
