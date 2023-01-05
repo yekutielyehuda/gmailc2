@@ -11,15 +11,6 @@
         with Time.
      2. Virustotal Share Signatures With AV Comapnies.
      3. Again Don't be an Idiot!
-# How To Run:-
-     *:- For Windows:-
-     1. Make Sure python3 and pip is installed and requriements also installed
-     2. python server.py  (on server side)
-     3. Then give the path of your payload file and enjoy
-   
-     *:- For Linux:-
-     1. Make Sure All Requriements is installed.
-     2. python3 server.py  (on server side)
    
 # How To Setup
      1. Create Two seperate Gmail Accounts.
@@ -40,6 +31,15 @@
         getting = "Your_1st_gmail@gmail.com"
         smtpserver = "smtp.gmail.com"          (don't change this)
     6. Enjoy
+# How To Run:-
+     *:- For Windows:-
+     1. Make Sure python3 and pip is installed and requriements also installed
+     2. python server.py  (on server side)
+     
+   
+     *:- For Linux:-
+     1. Make Sure All Requriements is installed.
+     2. python3 server.py  (on server side)
  
 # Features:-
 
