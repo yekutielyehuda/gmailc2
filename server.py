@@ -64,10 +64,10 @@ def logo():
     print(Colorate.Vertical(Colors.green_to_yellow, banner, 2))
     catc()
 smtpserver="smtp.gmail.com"
-smtpuser="youremail@gmail.com"
-smtpkey="yoursmtpapppassword"
+smtpuser="Your_1st_gmail@gmail.com" 
+smtpkey="your_1st_gmail_app_password"
 imapserver="imap.gmail.com"
-imapboy="your2ndemail@gmail.com"
+imapboy="your_2nd_gmail@gmail.com"
 
 def catc():
     try:
